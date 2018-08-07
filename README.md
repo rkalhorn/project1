@@ -5,7 +5,7 @@ Rebecca, Raj, and Rori
 
 ## Project Title: Let’s Get Woke Saint Louis
 
-## Description: <br />  
+## Description:<br />  
 Our project is to describe each zip code in Saint Louis and provide an overview of their economies and demographics. We will compile and analyze multiple data sources and let the data show what is unique about each zip code.
 
 <ul>
