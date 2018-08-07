@@ -1,12 +1,6 @@
-###Project 1:
+#Project 1:
 
-###Members
-*Rebecca Kalhorn
-*Rori Cooper
-*Raj Sikka
-
-
-Team Members: Rebecca, Raj, and Rori
+#Team Members: Rebecca, Raj, and Rori
 
 Project Title: Let’s Get Woke Saint Louis
 
@@ -15,13 +9,13 @@ Description: Our project is to describe each zip code in Saint Louis and provide
 Data: Saint Louis City data
 
 3-5 Initial Research Questions:
-•	What is unique about each zip code located within the Saint Louis city limits?
-•	How do the zip codes (neighborhoods) compare by a number of demographic variables using descriptive statistics?
-•	If you were moving to Saint Louis and were new to the area, which is the most attractive zip code to live and why?
+ •What is unique about each zip code located within the Saint Louis city limits?
+ •How do the zip codes (neighborhoods) compare by a number of demographic variables using descriptive statistics?
+ •If you were moving to Saint Louis and were new to the area, which is the most attractive zip code to live and why?
 
 Collect zip code data for the following categories:
-•	(RS) Shopping:
-	o	General Retail
+ •(RS) Shopping:
+  o General Retail
 	o	Small/family owned businesses
 •	(RS) Food:
 	o	Full-service restaurants
