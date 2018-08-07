@@ -18,30 +18,30 @@ Collect zip code data for the following categories:
 * (RS) Shopping:
 	- General Retail
 	- Small/family owned businesses
-•	(RS) Food:
-	o	Full-service restaurants
-	o	Fast food restaurants
-	o	Grocery stores/quick marts
-•	(RK) Real Estate:
-	o	Average home value
-	o	Ownership vs. Rentals
-	o	Foreclosures
-•	(RK) Public:
-	o	Parks
-	o	Libraries
-	o	Crime (https://www.stlouis-mo.gov/data/crime.cfm)
-	o	Vacant Buildings
-	o	Transportation options
-•	(Combo – RC & RK) Medical:
-	o	Hospitals
-	o	Urgent Care
-•	(RC) Education:
-	o	Number of schools 
-	o	School ranking
-	o	Universities and Community Colleges
-•	(RC) Finance:
-	o	ATMs/Banks
-	o	Payday Loan/Quick Cash
+* (RS) Food:
+	- Full-service restaurants
+	- Fast food restaurants
+	- Grocery stores/quick marts
+* (RK) Real Estate:
+	- Average home value
+	- Ownership vs. Rentals
+	- Foreclosures
+* (RK) Public:
+	- Parks
+	- Libraries
+	- Crime (https://www.stlouis-mo.gov/data/crime.cfm)
+	- Vacant Buildings
+	- Transportation options
+* (Combo – RC & RK) Medical:
+	- Hospitals
+	- Urgent Care
+* (RC) Education:
+	- Number of schools 
+	- School ranking
+	- Universities and Community Colleges
+* (RC) Finance:
+	- ATMs/Banks
+	- Payday Loan/Quick Cash
 
-Data Shortcomings:
+## Data Shortcomings:
 Unknown at this time.
