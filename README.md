@@ -8,20 +8,12 @@ Rebecca, Raj, and Rori
 ## Description:<br />  
 Our project is to describe each zip code in Saint Louis and provide an overview of their economies and demographics. We will compile and analyze multiple data sources and let the data show what is unique about each zip code.
 
-<ul>
-<li>Line 1</li>
-<li>Line 2</li>
-</ul>
+## Data: Saint Louis City data
 
-### Requirements
-* Linux
-* Python 3.3 and up
-Data: Saint Louis City data
-
-3-5 Initial Research Questions:
- •What is unique about each zip code located within the Saint Louis city limits?
- •How do the zip codes (neighborhoods) compare by a number of demographic variables using descriptive statistics?
- •If you were moving to Saint Louis and were new to the area, which is the most attractive zip code to live and why?
+## 3-5 Initial Research Questions:
+* What is unique about each zip code located within the Saint Louis city limits?
+* How do the zip codes (neighborhoods) compare by a number of demographic variables using descriptive statistics?
+* If you were moving to Saint Louis and were new to the area, which is the most attractive zip code to live and why?
 
 Collect zip code data for the following categories:
  •(RS) Shopping:
