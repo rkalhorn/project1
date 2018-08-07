@@ -34,7 +34,7 @@ Collect zip code data for the following categories:
 •	(RK) Public:
 	o	Parks
 	o	Libraries
-	o	Crime
+	o	Crime (https://www.stlouis-mo.gov/data/crime.cfm)
 	o	Vacant Buildings
 	o	Transportation options
 •	(Combo – RC & RK) Medical:
