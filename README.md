@@ -39,7 +39,7 @@ Collect zip code data for the following categories:
 	- Number of schools 
 	- School ranking
 	- Universities and Community Colleges
-* (RC) Finance:
+* (RS) Finance:
 	- ATMs/Banks
 	- Payday Loan/Quick Cash
 
