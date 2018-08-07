@@ -7,7 +7,12 @@ Rebecca, Raj, and Rori
 
 ## Description:   
 Our project is to describe each zip code in Saint Louis and provide an overview of their economies and demographics. We will compile and analyze multiple data sources and let the data show what is unique about each zip code.
- 
+
+<ul>
+<li>Line 1</li>
+<li>Line 2</li>
+</ul>
+
 Data: Saint Louis City data
 
 3-5 Initial Research Questions:
