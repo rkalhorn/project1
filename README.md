@@ -1,6 +1,7 @@
-#Project 1:
+# Project 1:
 
-#Team Members: Rebecca, Raj, and Rori
+## Team Members: 
+Rebecca, Raj, and Rori
 
 Project Title: Let’s Get Woke Saint Louis
 
