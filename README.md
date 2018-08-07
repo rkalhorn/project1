@@ -18,8 +18,8 @@ Collect zip code data for the following categories:
 * (RS) Shopping:
 	- General Retail
 	- Small/family owned businesses
-* (RS) Food:
-	- Full-service restaurants
+* (RS) Food: (www.yelp.com) (API)
+	- Full-service restaurants 
 	- Fast food restaurants
 	- Grocery stores/quick marts
 * (RK) Real Estate:
@@ -29,13 +29,13 @@ Collect zip code data for the following categories:
 * (RK) Public:
 	- Parks
 	- Libraries
-	- Crime (https://www.stlouis-mo.gov/data/crime.cfm)
+	- Crime (https://www.stlouis-mo.gov/data/crime.cfm) (csv file)
 	- Vacant Buildings
 	- Transportation options
 * (Combo – RC & RK) Medical:
 	- Hospitals
 	- Urgent Care
-* (RC) Education:
+* (RC) Education: (https://dese.mo.gov) (csv file)
 	- Number of schools 
 	- School ranking
 	- Universities and Community Colleges
@@ -44,4 +44,4 @@ Collect zip code data for the following categories:
 	- Payday Loan/Quick Cash
 
 ## Data Shortcomings:
-Unknown at this time.
+Each of our datat sources have different availability as far as by zip code or neighborhood. For time variables, we sometimes only have limitied information. For historical data, we will try to get 5 years of data (August 2013 until July 2018). If 5 years is not available, we will use as much as is available. 
